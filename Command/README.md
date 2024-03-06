@@ -23,6 +23,7 @@ The Command Design Pattern is a behavioral design pattern that turns a request i
 - When you need to implement reversible operations.
 
 ## Example UML Diagram
+- In the uml Chart in Command Invoker (TextEditor) there are two typos 1- there is no method getContent(). 2- there is no property document. 
 ![Screenshot](text_editor.png)
 
 ##  Conclusion
